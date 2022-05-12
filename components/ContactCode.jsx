@@ -20,7 +20,7 @@ const ContactCode = () => {
           target="_blank"
           rel="noopener"
         >
-          nitinranganath@gmail.com
+          Mohammad.j1600@gmail.com
         </a>
         ;
       </p>
